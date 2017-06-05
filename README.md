@@ -7,3 +7,4 @@ An open-source scoreboard API
   3. Invoke the method 'setProvider' on the previously initialized instance of ScoreboardManager, using an instance of the created SidebarProvider class.
   4. You are pretty much good to go! :)
 
+(Example: https://hastebin.com/qoworohele.java)
