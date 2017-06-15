@@ -97,7 +97,7 @@ final class PlayerScoreboard {
 	
 	String nextString(int line) {
 		String output = "";
-		for (int i = 0; i < 8; i ++) {
+		for (int i = 0; i < 4; i ++) {
 			output = output + ChatColor.values()[Math.min(line, 15)].toString();
 		}
 		return output + ChatColor.WHITE;
